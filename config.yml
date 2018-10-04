@@ -1,0 +1,6 @@
+development:
+  password: 35d05f7a3652c32f8261bef7f929fe8a
+  theme_id: "39351484483"
+  store: andreacabralb.myshopify.com
+  ignores:
+    - themekit_ignores

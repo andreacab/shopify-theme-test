@@ -1,0 +1,10 @@
+# plain file names and directories
+.circleci/*
+.git/*
+.gitignore
+
+# globs
+# *.png
+
+# regex
+# /\.(txt|gif|bat)$/
