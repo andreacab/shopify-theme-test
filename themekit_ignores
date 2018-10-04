@@ -2,6 +2,8 @@
 .circleci/*
 .git/*
 .gitignore
+Dockerfile
+README.md
 
 # globs
 # *.png
